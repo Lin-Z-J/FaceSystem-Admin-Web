@@ -1,0 +1,10 @@
+'use strict';
+
+require('../../base/style/index2.js');
+require('element-plus/theme-chalk/src/transfer.scss');
+require('../../input/style/index2.js');
+require('../../button/style/index2.js');
+require('../../checkbox/style/index2.js');
+require('../../checkbox-group/style/index2.js');
+
+//# sourceMappingURL=index2.js.map
