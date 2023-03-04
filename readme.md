@@ -1,5 +1,13 @@
 # 人脸识别会议签到后台管理系统
 
+### 组织结构
+
+```
+FaceSystem
+├── FaceSystem-Admin-Web -- 基于深度学习的人脸识别会议签到系统前端项目
+└── FaceSystem-SpringBoot -- 基于深度学习的人脸识别会议签到系统后端
+```
+
 #### 项目简介
 
 一个基于 Vue+SpringBoot+MybatisPlus+OpenCV+MySQL+Flask+Retinaface +Facenet 的前后端分离的后台管理系统， 主要包括会议管理、会议室管理、人员管理、部门管理等功能。
